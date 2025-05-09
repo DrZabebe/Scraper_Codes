@@ -1,0 +1,20 @@
+
+
+
+{
+    "reddit": {
+        "client_id": "r6_RUTtcLixb-_0lDTTykA",
+        "client_secret": "8nmc4X0BfuAALKH0PYsrE5_e6uMCqA",
+        "user_agent": "AIHealthcareSentimentScraper/0.1 by YourUsername"
+    },
+    "snowflake": {
+        "account": "sweqfnm-lx34353",
+        "user": "abebe",
+        "password": "$lo*Xq&z}2fQh:ja",
+        "warehouse": "S_WAREHOUSE",
+        "database": "STAGE_DB",
+        "schema": "PUBLIC",
+        "table": "AI_REDDIT_SENTIMENT"
+    }
+}
+
